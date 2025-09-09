@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Janiny Nóbrega  
 
-Sou **desenvolvedora em formação** e estou em busca da minha **primeira oportunidade como Estagiária em Desenvolvimento Full Stack**.  
+Sou **desenvolvedora em formação** e estou em busca da minha **primeira oportunidade como Desenvolvedora JR, Estágio ou Freelance em Desenvolvimento Full Stack**.  
 Tenho experiência na criação de soluções para **front-end** e **back-end**, sempre com foco em desenvolver aplicações eficientes, escaláveis e de fácil uso.  
 
 Minha jornada de aprendizado é constante — gosto de explorar novas tecnologias, aplicar boas práticas e me desafiar em projetos que unem **criatividade e funcionalidade**. 🚀  
