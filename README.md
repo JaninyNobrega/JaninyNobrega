@@ -59,4 +59,4 @@ Adoraria trocar ideias sobre tecnologia, projetos ou oportunidades!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/janiny-n%C3%B3brega-27506b106/)  
 - 📧 [janinynobrega@gmail.com](mailto:janinynobrega@gmail.com)  
-- 💻 [Portfólio/Site Pessoal](https://janinynobrega.github.io/MeuPortif-lio/)  
+- 💻 [Portfólio/Site Pessoal](https://portfolio-janinylabs.vercel.app/)  
