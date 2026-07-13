@@ -1,62 +1,106 @@
-# 👋 Olá, eu sou a Janiny Nóbrega  
+# Olá, eu sou a Janiny Nóbrega 👋
 
-Sou **desenvolvedora full stack em formação** e estou em busca de **oportunidades como Desenvolvedor JR, Estágio ou Freelancer**.  
-Tenho experiência na criação de soluções para **front-end** e **back-end**, sempre com foco em desenvolver aplicações eficientes, escaláveis e de fácil uso.  
+Desenvolvedora Full Stack apaixonada por transformar problemas complexos em soluções digitais simples, elegantes e inteligentes.
 
-Minha jornada de aprendizado é constante — gosto de explorar novas tecnologias, aplicar boas práticas e me desafiar em projetos que unem **criatividade e funcionalidade**. 🚀  
+Atualmente atuo no desenvolvimento de aplicações web, APIs e soluções com Inteligência Artificial, combinando pesquisa, tecnologia e experiência do usuário para criar produtos de alto impacto.
+
+Sou bolsista de Iniciação Científica (PICTA/SENAC), top 5 do Desafio IEL Recruiting Day e estou em busca de oportunidades como Desenvolvedora Full Stack Júnior.
 
 ---
 
-## ⚡ Tecnologias & Ferramentas  
+## 🚀 Tecnologias
 
 <div align="center">
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
+### Front-end
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
 
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+### Back-end
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 
+### Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+
+### Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 
 </div>
 
 ---
 
-## 🌟 Projetos em Destaque  
+# 🌟 Projetos em destaque
 
-- **My Planner** (Next.js + Tailwind + Node.js + PostgreSQL)  
-  Aplicação web para organização pessoal, com cadastro de projetos, autenticação e responsividade.  
+### 🤖 EduAssist IA
 
-- **Animal Gamer**  (JavaScrip + css + HTML)
-  Quiz de perguntas e respostas.  
+Pesquisa aplicada utilizando Inteligência Artificial para apoiar professores da Educação Infantil na elaboração do planejamento pedagógico.
 
-- **Jogo da Memória** (JavaScrip + css + HTML)
-  Jogo da memória com personagens da patrilha canina.  
+**Stack**
+
+Next.js • React • TypeScript • Tailwind CSS • OpenAI
 
 ---
 
-## 📫 Vamos conversar?  
+### 📊 Job Insights
 
-Adoraria trocar ideias sobre tecnologia, projetos ou oportunidades!  
+Aplicação para análise de vagas de tecnologia, geração de indicadores e identificação das competências mais valorizadas pelo mercado.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/janiny-n%C3%B3brega-27506b106/)  
-- 📧 [janinynobrega@gmail.com](mailto:janinynobrega@gmail.com)  
-- 💻 [Portfólio/Site Pessoal](https://portfolio-janinylabs.vercel.app/)  
+**Stack**
+
+Python • FastAPI • PostgreSQL • SQLModel • Matplotlib
+
+---
+
+### 📅 My Planner
+
+Aplicação Full Stack para organização de tarefas, projetos e rotinas pessoais.
+
+**Stack**
+
+Next.js • React • Tailwind CSS • MongoDB
+
+---
+
+# 🏆 Destaques
+
+- 🥇 Vencedora do Desafio IEL Recruiting Day
+- 🎓 Formação Desenvolvedor Full Stack — Geração Tech
+- 🔬 Bolsista de Iniciação Científica — PICTA / SENAC
+- 👥 Experiência em projetos colaborativos utilizando Git e GitHub
+
+---
+
+# 📫 Contato
+
+🌐 **Portfólio**
+
+https://portfolio-janinylabs.vercel.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/janiny-n%C3%B3brega-27506b106/
+
+📧 **E-mail**
+
+janinynobrega@gmail.com
+
+---
+
+> *"Software que transforma problemas complexos em experiências simples."*
