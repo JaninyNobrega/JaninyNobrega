@@ -2,7 +2,7 @@
 
 Desenvolvedora Full Stack apaixonada por transformar problemas complexos em soluções digitais simples, elegantes e inteligentes.
 
-Atualmente atuo no desenvolvimento de aplicações web, APIs e soluções com Inteligência Artificial, combinando pesquisa, tecnologia e experiência do usuário para criar produtos de alto impacto.
+Atualmente estudo desenvolvimento de aplicações web, APIs e soluções com Inteligência Artificial, combinando pesquisa, tecnologia e experiência do usuário para criar produtos de alto impacto.
 
 Sou bolsista de Iniciação Científica (PICTA/SENAC), top 5 do Desafio IEL Recruiting Day e estou em busca de oportunidades como Desenvolvedora Full Stack Júnior.
 
